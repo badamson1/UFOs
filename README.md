@@ -10,3 +10,8 @@ To find information on specific UFO sightings, you can use the filters on the lo
 
 
 ![filter](/static/images/filter.PNG)
+
+## Summary
+One drawback of this site is that it looks very clunky. Two recommendations for further development:
+1. Providing the filter table in a separate tab on the website
+2. Splitting the background paragraphs into buttons 
